@@ -1,2 +1,3 @@
-Status=Notice
-Message=📢 잘사용하세요.
+Status=Stop
+Message=⚠️ 관리자에 의해 사용이 중지되었습니다.
+문의: @Allzone5
