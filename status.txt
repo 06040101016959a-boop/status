@@ -1,2 +1,2 @@
 Status=Notice
-Message=📢 ㅎㅎ
+Message=📢 잘사용하세요.
